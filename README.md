@@ -6,19 +6,11 @@ This site is dedicated to finding a response to every single defense a carnist (
 
 ### What is a carnist?
 
-"Vegan" is a silly term.  We don't have terms like "non-car-thief" or "non-murderer".  If you don't engage in unethical behavior you're the default, and when you do, that deserves the label. 
+"Vegan" is a silly term.  We don't have terms like "non-car-thief" or "non-murderer".  If you don't engage in unethical behavior you're the default, and when you do, that deserves the label in any other context. 
 
 ### Who are you? What is your political stance? What entitles you to make these arguments?
 
-Some dude on the internet. It doesn't matter.  Veganism is about the victims not the abusers or debaters.
-
-### Why did you make this website?
-
-I'm annoyed with bad arguments which has lit the fire under me to make this.  It's mostly inspired in form by the [talkorigins archive](http://talkorigins.org/indexcc/list.html).
-
-### Are there any limitations on the arguments you consider?
-
-I try to keep this somewhat high-level but I'm sure that it'll get more in the weeds as time goes on. I'm confident that one day the mop of carnist.cc will hopefully touch every corner of the internet.
+Some dude on the internet. It doesn't matter.  No, I'm not Vegan Gains, Vegan Teacher, or whoever is your least-favorite vegan on the internet. And anyways, veganism is about the victims, not the abusers or debaters. I'm mostly annoyed with bad arguments which has lit the fire under me to make this.  It's mostly inspired in form by the [talkorigins archive](http://talkorigins.org/indexcc/list.html).
 
 ### Isn't this just ["Your Vegan Fallacy Is"](http://www.yourveganfallacyis.com)?
 
@@ -27,10 +19,6 @@ Yes, we are both sites countering carnist claims, but YVFI 1. Isn't attempting t
 ### How can I support this page?
 
 At the moment there are two methods of support: 1. Just use the page whenever you're in an argument and 2. Help by suggesting edits on [github](https://github.com/carnistclaims/carnistclaims.github.io/issues) by opening an 'issue'.
-
-### I want to build a site like this. How did you make this website?
-
-It's just a bunch of markdown files I run through Jinja templates that use getbootstrap, and about 50 lines of python that turns them into code and inserts them into the claims index.
 
 ### What if your website disappears?
 
