@@ -4,6 +4,10 @@
 
 This site is dedicated to finding a response to every single defense a carnist (or a vegan I suppose) has ever put out in justification of non-veganism.  Due to the varied, multiple, unique, and creative ways that carnists justify killing animals it's hard to track them all and you start playing argument whack-a-mole. Rather than type the same counters to the same few arguments you can say "see this page, point 3".
 
+### What is a carnist?
+
+"Vegan" is a silly term.  We don't have terms like "non-car-thief" or "non-murderer".  If you don't engage in unethical behavior you're the default, and when you do, that deserves the label. 
+
 ### Who are you? What is your political stance? What entitles you to make these arguments?
 
 Some dude on the internet. It doesn't matter.  Veganism is about the victims not the abusers or debaters.
