@@ -6,7 +6,7 @@ This site is dedicated to finding a response to every single defense a carnist h
 
 ### What is a carnist?
 
-A "Carnist" is a non-vegan. "Vegan" is a silly term, let alone negating it with "non-vegan".  We don't have terms like "non-car-thief" or "non-murderer".  If you don't engage in unethical behavior you're the default, and when you do, that deserves the label in any other context. So I'm a anticarnist, and if you engage in animal agriculture, you're a carnist.
+A "Carnist" is a non-vegan. "Vegan" is a silly term, let alone negating it with "non-vegan".  We don't have terms like "non-car-thief" or "non-murderer".  If you don't engage in unethical behavior you're the default, and when you do, that deserves the label in any other context. So I'm a non-carnist, which people generally call a "vegan", and if you engage in animal agriculture, you're a carnist.
 
 ### Who are you? I think you are actually...
 
@@ -22,5 +22,4 @@ At the moment there are two methods of support: 1. Just use the page whenever yo
 
 ### What if your website disappears?
 
-[You can download a snapshot here](https://github.com/carnistclaims/carnistclaims.github.io/archive/refs/heads/main.zip). Licensing: components free for fair use/educational; commercial or (near) full reproduction - let me know and we'll work it out.  
-
+[You can download a snapshot here](https://github.com/carnistclaims/carnistclaims.github.io/archive/refs/heads/main.zip).
