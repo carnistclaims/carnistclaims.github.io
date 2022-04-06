@@ -14,7 +14,7 @@ No, I'm not Vegan Gains, Vegan Teacher, or whoever is your least-favorite vegan 
 
 ### Isn't this another list site for veganism?
 
-Yes, there are many sites countering carnist claims, but those other sites 1. aren't attempting to catalogue them all (or at least that's not an apparent goal.) so that kind of hampers the use of the site. I want to be the end-all-be-all resource for all the arguments, rather than a partial list of major resources. 2. I'm also creating a taxonomy of these arguments, not just disperately listing them out, which helps with searching and keeping track of them 3. The more the merrier. If you like some other site, use that site; if you like mine, use mine. Check out the [resources](resources.html) page for other sources of arguments.
+Yes, there are many sites countering carnist claims, but those other sites 1. aren't attempting to catalogue them all (or at least that's not an apparent goal.) so that kind of hampers the use of the site. I want to be the end-all-be-all resource for all the arguments, rather than a partial list of major resources. 2. I'm also creating a taxonomy of these arguments, not just disparately listing them out, which helps with searching and keeping track of them 3. The more the merrier. If you like some other site, use that site; if you like mine, use mine. Check out the [resources](resources.html) page for other sources of arguments.
 
 ### How can I support this page?
 
