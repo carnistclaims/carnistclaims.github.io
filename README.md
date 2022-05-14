@@ -10,7 +10,7 @@ A "Carnist" is a non-vegan. "Vegan" is a silly term, let alone negating it with 
 
 ### Who are you? I think you are actually...
 
-No, I'm not Vegan Gains, Vegan Teacher, or whoever is your least-favorite vegan on the internet. I'm some dude that you don't know. I went vegan around the time I finished my Chemistry PhD.  I'm mostly annoyed with bad arguments which has lit the fire under me to make this.  It's mostly inspired in form by the [talkorigins archive](http://talkorigins.org/indexcc/list.html).  
+No, I'm not Vegan Gains, Vegan Teacher, or whoever is your least-favorite vegan on the internet. I'm mostly annoyed with bad arguments which has lit the fire under me to make this.  It's mostly inspired in form by the [talkorigins archive](http://talkorigins.org/indexcc/list.html).  
 
 ### Isn't this another list site for veganism?
 
